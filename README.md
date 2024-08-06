@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oLmZGamer
-- 👀 I’m interested in:ch m Game Dev
-- 🌱 I’m currently learning: UE5 And Blender Ande C++
+- 👀 I’m interested in: Game Dev
+- 🌱 I’m currently learning: UE5 And Blender And C++
 - 📫 How to reae: amb.family84@gmail.com
 - 😄 Pronouns: Alien/Bird
 - ⚡ Fun fact: Iam From Space And I love skibidi
